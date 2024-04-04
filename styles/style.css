@@ -4,10 +4,24 @@
     margin-left: auto;
     margin-right: auto;
     max-width: 80rem;
+    text-align: center;
+    
 }
 .beef{
     height: auto;
-    width: 580px;
+    width: 400px;
     margin-left: auto;
     margin-right: auto;
+    display: flex;
+}
+
+.para{
+    text-align: left;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.recipes{
+    text-align: left;
+    text-align: start;
 }
